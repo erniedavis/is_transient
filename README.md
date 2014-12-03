@@ -16,8 +16,14 @@ Without: http://www.chillcoots.com/custom-home-gallery-2/
 With: http://www.chillcoots.com/transients/
 
 Below is the code example: 
+
+
 <?php //*** http://www.chillcoots.com/transients/ ** ?>
+
+
  <!-- Begin main content -->
+ 
+ 
   <div class="inner_wrapper">
     <?php 
 	// quick function to check if transient is valid
