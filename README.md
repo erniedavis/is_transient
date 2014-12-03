@@ -19,11 +19,6 @@ Below is the code example:
 
  <!-- Begin main content -->
   <div class="inner_wrapper">
-    <div id="page_caption">
-      <h1 class="cufon">
-        <?php the_title(); ?>
-      </h1>
-    </div>
     <?php 
 	// quick function to check if transient is valid
 		function is_transient($t) {
