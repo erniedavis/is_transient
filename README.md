@@ -17,13 +17,11 @@ With: http://www.chillcoots.com/transients/
 
 Below is the code example: 
 
+http://www.chillcoots.com/transients/ ** 
 
-<?php //*** http://www.chillcoots.com/transients/ ** ?>
+============
 
-
- <!-- Begin main content -->
- 
- 
+<!-- Begin main content -->
   <div class="inner_wrapper">
     <?php 
 	// quick function to check if transient is valid
@@ -114,3 +112,4 @@ Below is the code example:
     <?php endwhile; ?>
   </div>
   <!-- End main content --> 
+============
