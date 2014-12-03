@@ -22,8 +22,10 @@ http://www.chillcoots.com/transients/ **
 ============
 
 <!-- Begin main content -->
+
   <div class="inner_wrapper">
     <?php 
+    
 	// quick function to check if transient is valid
 		function is_transient($t) {
 			if ( false === ( $value = get_transient( $t ) ) ) {
